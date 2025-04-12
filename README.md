@@ -216,8 +216,7 @@ button:active {
 ```
 
 ## OUTPUT
-![rc1](https://github.com/user-attachments/assets/ed6b2266-ce99-480e-b3d3-44b7c3410d6e)
-![rc2](https://github.com/user-attachments/assets/c79bc921-5ba7-4551-8b86-fc1397c5e36f)
-![rc3](https://github.com/user-attachments/assets/82d56161-0ac9-4866-aa57-a22c3f9b9ad2)
+![image](https://github.com/user-attachments/assets/0ffeea62-3aa9-4e2e-99c6-11c62b66eb76)
+
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
